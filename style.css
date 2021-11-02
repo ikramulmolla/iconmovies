@@ -106,7 +106,7 @@ nav .fas{
         transition: 1s;
     }
     nav .fas{
-        display: inline list-item;
+        display: list-item;
         font-size: 21px;
     color: #fff;
     cursor: pointer;
