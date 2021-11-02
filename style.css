@@ -58,6 +58,9 @@ nav{
 .text-box h1{
     font-size: 62px;
 } 
+.text-box .mobile{
+    display: none;
+}
 .text-box p{
     color: #fff;
     font-size: 16px;
@@ -86,6 +89,9 @@ nav .fas{
     .text-box h1{
         font-size: 32px;
         color:red;
+    }
+    .text-box .mobile{
+    display: block;
     }
     .navlinks ul li{
         display: block;
